@@ -1,2 +1,4 @@
 *.jpg
 #Prueba de ignorar *.txt
+*.txt
+
